@@ -1,16 +1,11 @@
-
-  .card{
+.card{
       border: 0;
-  } 
-  .card-foot{
+} 
+.card-foot{
       background-color: white;
       border: 0;
-
-  }
-  
-
-
-.backs {
+}
+  .backs {
     background-color: #f7f5df;
 }
 .small-images{
@@ -36,9 +31,6 @@
     background-color: rgb(248, 240, 240);
     border-radius: 30px;
 }
-
-
-
 .imgbutton{
     height: 60px;
     width: 60px;
@@ -49,39 +41,10 @@
     color: white;
     border-radius: 10px;
     
-    
-
 }
 .topone{
     margin-top: 150px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .buy-me-coler{
     border-color: white;
